@@ -1,2 +1,2 @@
 # lipWiz
-lipWiz project for DTI
+We are propelling the field of lipreading through the improvement of a creative framework. In particular, we mean to make an answer prepared to do precisely deciphering and translating discourse exclusively by dissecting lip developments. This approach has broad ramifications for availability, reconnaissance, and human-PC cooperation. Utilizing AI and profound brain organizations, we try to refine and advance existing lipreading models to accomplish higher exactness and effectiveness. At last, our undertaking plans to add to the headway of innovation in discourse acknowledgment and advance comprehensive correspondence frameworks.

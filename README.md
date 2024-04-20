@@ -80,8 +80,3 @@ This will launch the LipWiz application in your default web browser.
 ## Contributing
 
 We welcome contributions! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-

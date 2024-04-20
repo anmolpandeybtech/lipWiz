@@ -1,13 +1,17 @@
 <div align="center">
   <img src="https://github.com/thewolfpandey/lipWiz/blob/main/app/lip6.png">
 </div>
-# lipWiz
-We are propelling the field of lipreading through the improvement of a creative framework. In particular, we mean to make an answer prepared to do precisely deciphering and translating discourse exclusively by dissecting lip developments. This approach has broad ramifications for availability, reconnaissance, and human-PC cooperation. Utilizing AI and profound brain organizations, we try to refine and advance existing lipreading models to accomplish higher exactness and effectiveness. At last, our undertaking plans to add to the headway of innovation in discourse acknowledgment and advance comprehensive correspondence frameworks.
 
-# LipWiz
+# lipWiz
 
 Welcome to LipWiz! This repository contains a Streamlit application designed for lip reading using machine learning techniques.
+We are propelling the field of lipreading through the improvement of a creative framework. In particular, we mean to make an answer prepared to do precisely deciphering and translating discourse exclusively by dissecting lip developments. This approach has broad ramifications for availability, reconnaissance, and human-PC cooperation. Utilizing AI and profound brain organizations, we try to refine and advance existing lipreading models to accomplish higher exactness and effectiveness. At last, our undertaking plans to add to the headway of innovation in discourse acknowledgment and advance comprehensive correspondence frameworks.
 
+## Team Mates
+- Anmol Pandey
+- Soumya Jethwani
+- Vasvi Garg
+  
 ## Getting Started
 
 Follow the steps below to set up and run the LipWiz application on your local machine.
